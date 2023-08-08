@@ -1,5 +1,13 @@
 # GPTScan-Web3Bugs
 
+Paper: **When GPT Meets Program Analysis: Towards Intelligent Detection of Smart Contract Logic Vulnerabilities in GPTScan**
+
+https://arxiv.org/abs/2308.03314
+
+<img width="752" alt="Screenshot 2023-08-08 at 13 53 21" src="https://github.com/MetaTrustLabs/GPTScan-Web3Bugs/assets/7311190/ce41ca48-5671-453e-88c4-26da54dced9e">
+
+See the result of another DefiHacks dataset at https://github.com/MetaTrustLabs/GPTScan-DefiHacks.
+
 ### 10-LogicBug-Visorfinance
 
 https://github.com/MetaTrustLabs/GPTScan-Web3Bugs/blob/dev/reports/MetaScan_AI_Analyzer_Report_10-LogicBug-Visorfinance%20(1OK-ANC)_202308061524.pdf
