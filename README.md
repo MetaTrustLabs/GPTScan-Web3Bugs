@@ -266,6 +266,8 @@ https://github.com/MetaTrustLabs/GPTScan-Web3Bugs/blob/dev/reports/MetaScan_AI_A
 
 ### 45-LogicBug-Union
 
+https://github.com/MetaTrustLabs/GPTScan-Web3Bugs/blob/dev/reports/MetaScan_AI_Analyzer_Report_45-LogicBug-Union%20(1OK-WOI)%20(1Positive-FLP)_202308081345.pdf
+
 ![alt text](https://github.com/MetaTrustLabs/GPTScan-Web3Bugs/blob/dev/screenshots/45-LogicBug-Union.png)
 
 ### 47-2021-10-badgerdao
